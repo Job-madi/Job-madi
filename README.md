@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Notifyme**
 
-- 🌱 I’m currently learning **ASP.NET Core MVC**
+- 🌱 I’m currently learning **Laravel**
 
 - 👯 I’m looking to collaborate on **anything, literally!**
 
