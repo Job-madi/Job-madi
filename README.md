@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👯 I’m looking to collaborate on **anything, literally!**
-
 - 💬 Ask me about **anything**
 
 - ⚡ Fun fact **I play rugby!**
