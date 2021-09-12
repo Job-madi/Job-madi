@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working as a **SWE Intern**
 
-- 🌱 I’m currently learning **TypeScript**
-
 - 💬 Ask me about **anything**
 
 - ⚡ Fun fact **I play rugby!**
