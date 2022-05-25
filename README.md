@@ -3,8 +3,6 @@
 
 - I'll fix my Github one day I promise:) (public code is poor)
 
-- 🔭 I’m currently working as a **SWE**
-
 - 🚀 I’m currently working on **QuiteShy** 
 
 - 💬 Ask me about **anything**
