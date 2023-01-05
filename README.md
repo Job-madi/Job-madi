@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Job</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=job-madi&label=Profile%20views&color=0000ff&style=flat" alt="job-madi" /> </p>
 
-- I'll fix my Github one day I promise:) (public code is poor)
-
 - 💬 Ask me about **anything**
 
 - ⚡ Fun fact **I play rugby!**
